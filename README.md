@@ -1,2 +1,2 @@
 # ncnn_test
-for test
+for mobilenetv2 classification test
